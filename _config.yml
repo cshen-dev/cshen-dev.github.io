@@ -18,10 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: "Langscope :telescope:"
+title: "Langscope"
 baseurl: "/langscope" # the subpath of your site, e.g. /blog
 url: "https://cshen-dev.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-description: "A page about programming languages trends especially for software developer newbies."
+description: "A page about programming languages trends especially for software developer newbies. :telescope:"
 
 author:
   name: "cshen-dev"
@@ -30,7 +30,6 @@ author:
 # Build settings
 theme: minima
 plugins:
-  - jekyll-feed
   - jemoji
 
 minima:

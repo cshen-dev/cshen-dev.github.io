@@ -1,9 +1,7 @@
 ---
 layout: page
-title: "Reference"
+title: "Reference :bookmark:"
 ---
-
-The RedMonk reports:
 
 - [The RedMonk report - January 2024](https://redmonk.com/sogrady/2024/03/08/language-rankings-1-24)
 - [The RedMonk report - January 2023](https://redmonk.com/sogrady/2023/05/16/language-rankings-1-23)
