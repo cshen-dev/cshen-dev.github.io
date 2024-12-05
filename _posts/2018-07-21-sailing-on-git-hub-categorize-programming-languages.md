@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Sailing on GitHub: Categorize programming languages :label:"
+title: "Sailing on GitHub: Categorize programming languages 🏷️"
 categories: [Beginner]
 tags: [programming]
 ---
