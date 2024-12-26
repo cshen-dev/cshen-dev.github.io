@@ -133,7 +133,7 @@ Given our small team, with only one dedicated DevOps staff member handling a bro
 - Enterprise-level complexity
 - Potentially high enterprise-level cost
 
-### [Logz.io](http://Logz.io) ❌  
+### [Logz.io](https://Logz.io) ❌  
 *for Infrastructure & Application*
 - Drop for the technical complexity
 - Combines the complexity of the ELK and Grafana stacks
