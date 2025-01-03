@@ -15,7 +15,5 @@ The list below is a progress tracker for myself
 - [x] 1. Android Developer
 - [x] 2. Frontend Engineer
 - [x] 3. Backend Engineer
-- [x] 4. DevOps Engineer + Data
-- [x] 5. DevOps Engineer + AI
-- [ ] 6. Cloud DevSecOps Engineer
-- [ ] 7. Indie Developer
+- [x] 4. DevOps Engineer
+- [ ] 5. Indie Developer
