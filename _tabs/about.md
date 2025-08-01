@@ -5,16 +5,19 @@ order: 4
 ---
 
 
-Hello to anyone who stumbles upon my blog,
+Welcome to my blog!
 
-Here’s a brief introduction: I’m a fortunate individual who enjoys working in IT. I’m exploring various roles that interest me on my journey to becoming an independent full-stack developer.
+If you’ve landed here—hello and thanks for visiting.
 
-Currently, I’m honing my operations skills and dedicating a lot of time to programming, cloud computing, and AI.
+A little about me: I’m someone who’s lucky enough to enjoy working in IT. I’m exploring different paths on my journey to becoming a fully independent full-stack developer.
 
-The list below is a progress tracker for myself
+Right now, I’m focused on sharpening my operational skills and spending a lot of time on programming, cloud computing, and AI.
 
-- [x] 1. Android Developer
-- [x] 2. Frontend Engineer
-- [x] 3. Backend Engineer
-- [x] 4. DevOps Engineer
-- [ ] 5. Indie Developer
+The list below tracks my personal progress across various roles I’ve taken on:
+- Android Developer
+- Frontend Engineer
+- Backend Engineer
+- DevOps Engineer
+- Indie Developer (in progress!)
+
+**Disclaim:** Some of the content here has been polished with the help of a language model (LLM) to improve clarity and tone.
