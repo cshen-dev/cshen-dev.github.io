@@ -1,8 +1,7 @@
 ---
 layout: post
 title: "Top 7 cloud-friendly programming languages for every developer"
-categories: [Beginner]
-tags: [programming]
+tags: [beginner]
 ---
 
 With the rise of microservices, organizations are increasingly using multiple programming languages. The best language for a particular microservice is chosen based on its specific domain. To meet this need, large cloud service providers like AWS, GCP, and Azure offer a variety of SDKs for different programming languages. This makes it easier for developers to build and maintain microservices on these platforms.

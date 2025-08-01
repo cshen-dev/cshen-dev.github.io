@@ -1,8 +1,6 @@
 ---
 layout: post
 title: "Terminals on MacOS"
-categories: [Beginner]
-tags: [productivity]
 ---
 
 Here are some helpful tips and tricks you should consider when using the terminal on macOS.

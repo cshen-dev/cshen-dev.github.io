@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Evaluate monitoring tools for an early-stage tech startup"
-categories: [DevOps]
 tags: [observability]
 ---
 

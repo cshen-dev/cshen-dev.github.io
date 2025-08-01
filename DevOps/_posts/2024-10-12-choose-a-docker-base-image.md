@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "How to choose a  docker base image"
-categories: [DevOps]
 tags: [docker]
 ---
 

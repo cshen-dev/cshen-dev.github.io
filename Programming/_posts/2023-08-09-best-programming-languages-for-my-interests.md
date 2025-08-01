@@ -1,8 +1,7 @@
 ---
 layout: post
 title: "Best programming languages for my interests"
-categories: [Beginner]
-tags: [programming]
+tags: [beginner]
 ---
 
 ### Web / Mobile App Development

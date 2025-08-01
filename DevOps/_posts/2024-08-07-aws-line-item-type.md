@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "AWS line item type"
-categories: [Beginner]
 tags: [aws]
 ---
 

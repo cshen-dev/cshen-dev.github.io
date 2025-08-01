@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Observability tools explored for a tech startup"
-categories: [DevOps]
 tags: [observability]
 ---
 
