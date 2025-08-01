@@ -14,12 +14,12 @@ timezone: Australia/Sydney
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Bootstrap DevOps with Charlie # the main title
+title: CShen's Happy Stack # the main title
 
-tagline: This site is under Beta testing # it will display as the sub-title
+tagline: Dev thoughts unlocked # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  Bootstrap DevOps with Charlie Shen. This site is under Beta testing.
+  CShen's Happy Stack: Dev thoughts unlocked. This site is under Beta testing.
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
