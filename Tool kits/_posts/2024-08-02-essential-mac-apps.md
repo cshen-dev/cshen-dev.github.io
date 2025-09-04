@@ -38,5 +38,3 @@ If you prefer a subscription model, you might want to check out my other post ab
 - [Bartender 5 - Take control of your Menu bar](https://www.macbartender.com/)
 - [TablePlus - Modern, Native Tool for Database Management](https://tableplus.com/)
 - [Typora - simple yet powerful Markdown reader.](https://typora.io/)
-
-- [Setapp - Powerful apps for Mac & iOS](https://setapp.com/)
