@@ -28,4 +28,5 @@ Over time, this trend reduces the practical need for solutions like TailScale. W
 - [Tailscale · Best VPN Service for Secure Networks](https://tailscale.com/)
 - [Cloudflare vs. Tailscale - Compare Access and Gateway to Tailscale](https://tailscale.com/compare/cloudflare-access)
 - [What is SASE? - Secure access service edge - Cloudflare](https://www.cloudflare.com/en-gb/learning/access-management/what-is-sase/)
+- [VPN Replacement - Zero Trust - Cloudflare](https://www.cloudflare.com/en-au/zero-trust/solutions/vpn-replacement/)
 - [AWS Systems Manager Session Manager - AWS Systems Manager](https://docs.aws.amazon.com/systems-manager/latest/userguide/session-manager.html)
