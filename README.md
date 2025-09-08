@@ -28,11 +28,11 @@ bundle
 **Run Jekyll locally**
 
 ```
-./tools/run.sh
+make run
 ```
 
 **Test site contents**
 
 ```
-./tools/test.sh
+make test
 ```
