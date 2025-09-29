@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Evaluate monitoring tools for an early-stage tech startup"
+title: "Evaluate monitoring tools for an early-stage tech startup in 2024"
 tags: [observability]
 ---
 
@@ -19,26 +19,11 @@ Given our small team, with only one dedicated DevOps staff member handling a bro
 
 ## Tools evaluated
 
-**Legend**
-
-💛 Like
-
-💗 Attractive
-
-💚 Safe choice
-
-💙 Mixed feelings (I feel blue when using them)
-
-⏹️ Limited for certain aspects
-
-❌ Not recommended
-
-### DataDog 💛  
+### [DataDog 💗](https://www.datadoghq.com/)
 *for Infrastructure & Application [Estimated monthly price: $1000]*
-
 - Dev Exp: 9/10
-- Ops Exp: 7/10
-- Cost: 6/10
+- Ops Exp: 8/10
+- Cost: 5/10
 - Pros
    - Comprehensive product
    - Clear, meaningful graphs
@@ -48,11 +33,11 @@ Given our small team, with only one dedicated DevOps staff member handling a bro
 - Cons
    - Expensive, with reports of hidden charges
 
-### NewRelic 💗  
-*- for Infrastructure & Application [Estimated monthly price: $500]*
-- Dev Exp: 7/10
-- Ops Exp: 7/10
-- Cost: 8/10
+### [NewRelic 💛](https://newrelic.com/)
+*for Infrastructure & Application [Estimated monthly price: $500]*
+- Dev Exp: 8/10
+- Ops Exp: 8/10
+- Cost: 7/10
 - Pros
    - Intuitive UI and graphs
    - Feature-rich, including mobile and digital experience sectors
@@ -62,10 +47,10 @@ Given our small team, with only one dedicated DevOps staff member handling a bro
    - Historically an APM company, not sure if conservative
    - Customer service quality is uncertain
 
-### SigNoz 💚  
-*(opensource) - for Infrastructure & Application  [Estimated monthly price: $200]*
-- Dev Exp: 6/10
-- Ops Exp: 8/10
+### [SigNoz 💚  (opensource)](https://signoz.io/)
+*for Infrastructure & Application  [Estimated monthly price: $200]*
+- Dev Exp: 7/10
+- Ops Exp: 9/10
 - Cost: 9/10
 - Pros
    - Open-source and can be self-hosted
@@ -75,18 +60,24 @@ Given our small team, with only one dedicated DevOps staff member handling a bro
    - Managed service is relatively new compared to bigger players
    - Lacks digital experience monitoring
 
-### Grafana Stack 💙 (opensource)
+### [Grafana Stack 💚 (opensource)](https://grafana.com/)
 *Infrastructure-focused & Application covered  [Estimated monthly price: $0]*
-   - Pros
-      - Cloud-native
-      - Integrates well with Prometheus, focusing on Kubernetes
-      - Very cost-effective due to its popularity
-   - Cons
-      - UI is laggy and complex compared to SigNoz
-      - Poor log management, especially for log searching
+- Dev Exp: 6/10
+- Ops Exp: 7/10
+- Cost: 10/10
+- Pros
+   - Cloud-native
+   - Integrates well with Prometheus, focusing on Kubernetes
+   - Very cost-effective due to its popularity
+- Cons
+   - UI is laggy and complex compared to SigNoz
+   - Poor log management, especially for log searching
 
-### Elastic Stack 💙  (opensource) 
+### [Elastic Stack 💙  (opensource)](https://www.elastic.co/)
 *Log-focused & Metrics covered [Estimated monthly price: $800]*
+- Dev Exp: 6/10
+- Ops Exp: 5/10
+- Cost: 6/10
 - Pros
    - Popular log management tool
    - Offers SEIM for security
@@ -97,17 +88,15 @@ Given our small team, with only one dedicated DevOps staff member handling a bro
    - Requires extra effort to configure as an observability tool
    - Resource-heavy, especially its database
 
-### Better Stack ⏹️
-*Uptime monitoing & Logs & Metric*
+### [Sentry ⏹️](https://sentry.io/welcome/)  
+*Application performance-focused*
 - Pause as it is a speclised tool as opposed to a suite
 - Pros
-   - Matches our current needs perfectly
-   - Sleek UI
+   - Leading error capturing product
 - Cons
-   - Kubernetes integration requires additional support
-   - Less technical appearance compared to other options
+   - Does not cover infrastructure
 
-### Honeycomb ⏹️
+### [Honeycomb ⏹️](https://www.honeycomb.io/)
 *Application performance-focused*
 - Pause as it is a speclised tool as opposed to a suite
 - Pros
@@ -117,39 +106,50 @@ Given our small team, with only one dedicated DevOps staff member handling a bro
 - Cons
    - Does not cover infrastructure & dashboard well
 
-### Sentry ⏹️  
-*Application performance-focused*
+### [Better Stack ⏹️](https://betterstack.com/)
+*Uptime monitoing & Logs & Metric*
 - Pause as it is a speclised tool as opposed to a suite
 - Pros
-   - Leading error capturing product
+   - Matches our current needs perfectly
+   - Sleek UI
 - Cons
-   - Does not cover infrastructure
+   - Kubernetes integration requires additional support
+   - Less technical appearance compared to other options
 
-### Dynatrace ❌ 
+### [Dynatrace ❌](https://www.dynatrace.com/) 
 *for Infrastructure & Application*
 - Drop for the Enterprise Price Plan
 - Microsoft-like UI, feels like an extension of Windows
 - Enterprise-level complexity
 - Potentially high enterprise-level cost
 
-### [Logz.io](https://Logz.io) ❌  
+### [Logz.io ❌](https://logz.io/)  
 *for Infrastructure & Application*
 - Drop for the technical complexity
 - Combines the complexity of the ELK and Grafana stacks
 - Resource-heavy due to bundling multiple open-source projects
 
-### AppDynamics ❌ 
-*for Infrastructure & Application*
-- Drop for the Enterprise Price Plan
-- Enterprise-level product
-- Cisco product
-
-### Splunk ❌ 
+### [Splunk ❌](https://www.splunk.com/) 
 *Secure-focused Log analytic platform*
 - Drop for the Enterprise Price Plan
 - Leading company in SEIM with high adoption in the security industry
 - High enterprise-level cost
 - Cisco product
+
+
+## Legends
+
+💗 Attractive
+
+💛 Like
+
+💚 Safe choice
+
+💙 Mixed feelings (I feel blue when using them)
+
+⏹️ Limited for certain aspects
+
+❌ Not recommended
 
 ## Conclusion
 
