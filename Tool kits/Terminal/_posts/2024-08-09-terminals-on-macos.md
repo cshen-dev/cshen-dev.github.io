@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Terminals on MacOS"
+title: "💻 Terminals on MacOS"
 ---
 
 Here are some helpful tips and tricks you should consider when using the terminal on macOS.

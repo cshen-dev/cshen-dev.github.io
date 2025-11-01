@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Open source observability tools explored in 2024"
+title: "📊 Open source observability tools explored in 2024"
 tags: [observability]
 ---
 

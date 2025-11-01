@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Top 7 cloud-friendly programming languages for every developer"
+title: "⌨️ Top 7 cloud-friendly programming languages for every developer"
 tags: [beginner]
 ---
 

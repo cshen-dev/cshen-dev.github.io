@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python Local Setup Cheatsheet"
+title: "⚒️ Python Local Setup Cheatsheet"
 tags: [beginner]
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AWS line item type"
+title: "🪣 AWS line item type"
 ---
 
 

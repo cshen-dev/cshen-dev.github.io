@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "What is a DevOps engineer?"
+title: "🔬 What is a DevOps engineer?"
 ---
 
 The role of a DevOps engineer will vary from one organization to another, but invariably entails some combination of release engineering, infrastructure provisioning and management, system administration, security, and DevOps advocacy. 

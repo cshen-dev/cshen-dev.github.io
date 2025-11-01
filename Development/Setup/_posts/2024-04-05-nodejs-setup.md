@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "NodeJS Local Setup Cheatsheet"
+title: "⚒️ NodeJS Local Setup Cheatsheet"
 tags: [beginner]
 ---
 

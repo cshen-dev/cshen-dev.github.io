@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Two Most Common Legal Documents: Terms of Use and Privacy Policy"
+title: "👨‍⚖️ The Two Most Common Legal Documents: Terms of Use and Privacy Policy"
 ---
 
 ## Intro
@@ -35,7 +35,7 @@ Most countries (e.g., under GDPR in the EU, CCPA in California, Privacy Act in A
 You cannot launch a commercial SaaS product without both documents. Even for MVPs, having boilerplate versions tailored to your service is essential.
 
 | Aspect                 | Terms of Use                                          | Privacy Policy                           |
-|:-----------------------|:------------------------------------------------------|:-----------------------------------------|
+| :--------------------- | :---------------------------------------------------- | :--------------------------------------- |
 | Focus                  | How the service/product can be used                   | How user data is handled                 |
 | Audience               | Users, partners, developers                           | Governments, users, regulators           |
 | Legal requirement?     | Not always mandatory, but highly recommended          | Yes, if collecting personal data         |

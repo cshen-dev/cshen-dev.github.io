@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Suggested read to get started with observability"
+title: "📊 Suggested read to get started with observability"
 ---
 
 

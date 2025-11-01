@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "To run or not to run a database on Kubernetes?"
+title: "⚓ To run or not to run a database on Kubernetes?"
 ---
 
 It’s 2023, and I still find this 2019 article highly relevant.

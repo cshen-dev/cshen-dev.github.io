@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GCP Quick Link"
+title: "🌈 GCP Quick Link"
 ---
 
 ### The list of GCP Products 

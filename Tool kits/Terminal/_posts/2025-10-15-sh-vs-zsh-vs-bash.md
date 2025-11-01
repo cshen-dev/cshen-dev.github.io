@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "sh vs Zsh vs Bash Built-in Commands Comparison"
+title: "💻 sh vs Zsh vs Bash Built-in Commands Comparison"
 ---
 
 

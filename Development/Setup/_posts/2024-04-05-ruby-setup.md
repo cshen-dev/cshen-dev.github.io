@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ruby Local Setup Cheatsheet"
+title: "⚒️ Ruby Local Setup Cheatsheet"
 tags: [beginner]
 ---
 

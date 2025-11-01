@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Evaluate monitoring tools for an early-stage tech startup in 2024"
+title: "📊 Evaluate monitoring tools for an early-stage tech startup in 2024"
 tags: [observability]
 ---
 

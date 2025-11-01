@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Do you need a modern VPN like Tailscale?"
+title: "🛜 Do you need a modern VPN like Tailscale?"
 ---
 
 ![https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Tailscale-Logo-Black.svg/750px-Tailscale-Logo-Black.svg.png?20210201215505](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Tailscale-Logo-Black.svg/750px-Tailscale-Logo-Black.svg.png?20210201215505)

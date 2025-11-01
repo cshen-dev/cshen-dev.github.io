@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AWS Security Group Best Practices"
+title: "🪣 AWS Security Group Best Practices"
 ---
 
 

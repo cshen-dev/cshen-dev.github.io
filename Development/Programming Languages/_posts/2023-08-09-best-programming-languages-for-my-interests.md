@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Best programming languages for my interests"
+title: "⌨️ Best programming languages for my interests"
 tags: [beginner]
 ---
 

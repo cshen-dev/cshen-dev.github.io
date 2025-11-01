@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Kubernetes Cheat Sheet"
+title: "⚓ Kubernetes Cheat Sheet"
 ---
 
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Kubernetes vs PaaS: Choosing the Right Path for Startups"
+title: "⚓ Kubernetes vs PaaS: Choosing the Right Path for Startups"
 ---
 
 

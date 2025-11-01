@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "What is DevSecOps?"
+title: "🔬 What is DevSecOps?"
 ---
 
 > DevSecOps means thinking about application and infrastructure security from the start.

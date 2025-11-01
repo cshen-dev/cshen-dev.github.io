@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "24 Google Cloud Platform (GCP) security best practices"
+title: "🌈 24 Google Cloud Platform (GCP) security best practices"
 ---
 
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Essential Mac apps"
+title: "🖥️ Essential Mac apps"
 ---
 
 Throughout my tech career, I’ve done most of my work on MacBooks. Here’s a list of applications I recommend to all developers, grouped into two categories. Together, they make a powerful setup.

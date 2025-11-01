@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "26 AWS security best practices to adopt in production"
+title: "🪣 26 AWS security best practices to adopt in production"
 ---
 
 

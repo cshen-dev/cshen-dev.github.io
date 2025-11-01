@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Karpenter Best Practices"
+title: "🪣 Karpenter Best Practices"
 ---
 
 ## Karpenter Best Practices

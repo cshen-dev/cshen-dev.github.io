@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Categorising programming languages by trending GitHub projects"
+title: "⌨️ Categorising programming languages by trending GitHub projects"
 tags: [beginner]
 ---
 

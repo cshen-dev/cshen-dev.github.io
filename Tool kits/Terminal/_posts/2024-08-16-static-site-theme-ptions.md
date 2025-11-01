@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Static site theme options"
+title: "💻 Static site theme options"
 ---
 
 Building a static site is a common need—marketing is persuasive, and a website remains one of the cheapest yet most effective channels. You might create a site to market your business, build your personal brand, promote an open-source project, launch a self-funded product, or simply share knowledge. Even when the goal isn’t explicitly marketing, in some way it often ends up serving that purpose.
