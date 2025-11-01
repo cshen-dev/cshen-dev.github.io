@@ -1,4 +1,4 @@
-# Charlie Shen's Happy Stack
+# C.Shen's Stack
 
 
 ## Prerequisite 

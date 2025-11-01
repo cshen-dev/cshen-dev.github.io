@@ -14,12 +14,12 @@ timezone: Australia/Sydney
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: cshen's happy stack # the main title
+title: cshen's stack # the main title
 
 tagline: Dev thoughts revisited # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  CShen's Happy Stack: Dev thoughts unlocked. This site is under Beta testing.
+  C.Shen's Stack: Dev thoughts unlocked. This site is under Beta testing.
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
