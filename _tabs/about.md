@@ -4,12 +4,9 @@ icon: fas fa-info-circle
 order: 4
 ---
 
+Hello and thanks for visiting my personal blog. 🙂
 
-Welcome to my blog! 👋
-
-Hello and thanks for visiting. 🙂
-
-I’m exploring different paths on my journey to becoming a fully independent full-stack developer.
+I’m exploring different paths on my journey to becoming a fully independent developer.
 
 Right now, I’m focused on sharpening my operational skills and spending a lot of time on programming, cloud computing, and AI.
 
