@@ -14,6 +14,6 @@
   icon: "fas fa-rss"
   noblank: true
 
-- type: linkedin
-  icon: "fab fa-linkedin" # icons powered by <https://fontawesome.com/>
-  url: "https://www.linkedin.com/in/chun-charlie-shen/"
+- type: langscope
+  icon: "fas fa-chart-simple"
+  url: "https://cshen.dev/langscope"
