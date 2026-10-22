@@ -6,13 +6,6 @@ order: 4
 
 Hello and thanks for visiting my personal blog. 👋 🙂
 
-I’m a seasoned developer and operator. I’ve worked across the stack in several roles, from shipping product 📦 to keeping it running in production 🛠️.
+I’m a seasoned developer and operator. I’ve worked across the stack — Android 📱, frontend 🎨, backend ⚙️, DevOps 🚀, and SecOps 🔐 — from shipping a product 📦 to keeping it running in production 🛠️.
 
-The roles I’ve taken on:
-- 📱 Android Developer
-- 🎨 Frontend Engineer
-- ⚙️ Backend Engineer
-- 🚀 DevOps Engineer
-- 🔐 SecOps Engineer
-
-What I’m passionate about is the route a startup takes to succeed: how a small team turns an idea into something that ships, stays up, and can grow. 🌱
+That work taught me how to keep a product shipping efficiently, audit-ready, and affordable as it grows. If you find what I write here interesting, or you just want to know how I got here, reach out by email at [cshen.dev@gmail.com](mailto:cshen.dev@gmail.com). 🌱
